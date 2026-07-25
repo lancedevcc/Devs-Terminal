@@ -1,2 +1,2 @@
 # Devs-Terminal
-A Universal Devs ternimal 
+A Universal Devs Terminal 
